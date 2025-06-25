@@ -68,7 +68,7 @@ npm run dev
 http://localhost:5173
 ```
 
-## 🔗 Live Link & Relevant Links
+## Relevant Links
 
 - 📂 **GitHub Repository:** [https://github.com/nazmulrahat786/plant-care-tracker](https://github.com/nazmulrahat786/plant-care-tracker)  
 
