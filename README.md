@@ -6,9 +6,7 @@ Plant Care Tracker is a modern and responsive web application designed to help u
 ## 🔗 Live Link  
 [https://potropollob-58633.web.app](https://potropollob-58633.web.app)
 
-## 🖼️ Screenshot  
-![Plant Care Tracker Screenshot](https://your-image-link.com)  
-*(Replace the above URL with your actual screenshot link)*
+
 
 ## 🌟 Key Features  
 - 🌱 **Plant Explorer:** Browse and discover a wide variety of plant species with detailed descriptions and images.  
