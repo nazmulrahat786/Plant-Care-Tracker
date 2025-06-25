@@ -27,14 +27,21 @@ Plant Care Tracker is a modern and responsive web application designed to help u
 ```json
 {
   "dependencies": {
-    "react": "^18.x",
-    "react-dom": "^18.x",
-    "react-router-dom": "^6.x",
-    "firebase": "^9.x",
-    "tailwindcss": "^3.x",
-    "express": "^4.x",
-    "mongodb": "^5.x",
-    "mongoose": "^7.x"
+    "@emotion/react": "^11.11.4",
+    "firebase": "^10.11.1",
+    "localforage": "^1.10.0",
+    "match-sorter": "^6.3.4",
+    "react": "^18.2.0",
+    "react-awesome-reveal": "^4.2.8",
+    "react-dom": "^18.2.0",
+    "react-icons": "^5.1.0",
+    "react-router-dom": "^6.23.0",
+    "react-toastify": "^10.0.5",
+    "react-tooltip": "^5.26.4",
+    "sort-by": "^1.2.0",
+    "sweetalert2": "^11.10.8",
+    "swiper": "^11.1.1"
+  }
   }
 }
 ```
