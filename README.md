@@ -43,7 +43,7 @@ Plant Care Tracker is a modern and responsive web application designed to help u
     "swiper": "^11.1.1"
   }
   }
-}
+
 ```
 ## 🖥️ How to Run Locally
 
