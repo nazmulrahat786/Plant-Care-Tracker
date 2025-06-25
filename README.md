@@ -3,8 +3,10 @@
 ## 📖 Project Overview  
 Plant Care Tracker is a modern and responsive web application designed to help users discover, track, and care for various plants. Whether you are a beginner or an expert gardener, this platform makes plant care easier and more enjoyable.
 
-## 🔗 Live Link  
-[https://potropollob-58633.web.app](https://potropollob-58633.web.app)
+## 🔗 Live Demo  
+Experience the app live and explore all its features here:  
+[🌿 Plant Care Tracker Live Site](https://potropollob-58633.web.app)
+
 
 
 
